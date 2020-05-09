@@ -1,10 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+
 import 'normalize.css'
+
+import Header from './components/Header'
 
 ReactDOM.render(
   <React.StrictMode>
-    <div>Box Movie</div>
+    <Header/>
   </React.StrictMode>,
   document.getElementById('root')
 );
