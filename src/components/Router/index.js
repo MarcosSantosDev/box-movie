@@ -5,7 +5,7 @@ import { Router as ReachRouter } from '@reach/router';
 import Header from '../Header';
 import Movies from '../Movies';
 
-const NotFound = () => <p>Sorry, nothing here</p>
+const NotFound = () => <p>Sorry, nothing here</p>;
 
 const Router = () => {
   return (
@@ -18,6 +18,6 @@ const Router = () => {
       </ReachRouter>
     </>
   );
-}
+};
 
 export default Router;
