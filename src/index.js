@@ -3,13 +3,11 @@ import ReactDOM from 'react-dom';
 
 import 'normalize.css'
 
-import Header from './components/Header'
-import Movies from './components/Movies'
+import Router from './components/Router'
 
 ReactDOM.render(
   <React.StrictMode>
-    <Header />
-    <Movies />
+    <Router/>
   </React.StrictMode>,
   document.getElementById('root')
 );
