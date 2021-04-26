@@ -1,14 +1,16 @@
-import styled from 'styled-components'
-import { FaPlay } from "react-icons/fa";
+import styled from 'styled-components';
+import { FaPlay } from 'react-icons/fa';
 
 export const Container = styled.div`
+  display: flex;
+  justify-content: space-between;
   left: 0;
   right: 0;
   width: 100%;
   height: 50px;
 
   background: #dcdcdc;
-`
+`;
 
 export const Logo = styled.div`
   display: flex;
@@ -31,7 +33,7 @@ export const Logo = styled.div`
       color: #ff7963;
     }
   }
-`
+`;
 
 export const BoxIcon = styled.div`
   display: flex;
@@ -40,7 +42,7 @@ export const BoxIcon = styled.div`
 
   width: 50px;
   height: 50px;
-`
+`;
 
 export const FaPlayIcon = styled(FaPlay)`
   animation-name: movimation;
@@ -54,4 +56,19 @@ export const FaPlayIcon = styled(FaPlay)`
       transform: translateX(50%)
     }
   }
-`
+`;
+
+export const TranslateWrapper = styled.div`
+    display: flex;
+    align-items: center;
+    padding: 0px 15px;
+
+    & {
+      select {
+        border: none;
+        background-color: #f6f7f2a6;
+        padding: 6px;
+        border-radius: 5px;
+      }
+    }
+`;

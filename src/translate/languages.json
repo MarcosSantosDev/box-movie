@@ -1,0 +1,132 @@
+{
+    "languages": [
+        {
+            "prefix": "de",
+            "language": "Alemão"
+        },
+        {
+            "prefix": "ar",
+            "language": "Árabe"
+        },
+        {
+            "prefix": "bn-BD",
+            "language": "Bengali-Bangladesh"
+        },
+        {
+            "prefix": "bn-IN",
+            "language": "Bengali-Índia"
+        },
+        {
+            "prefix": "zh-CN",
+            "language": "Chinês (Simplificado)"
+        },
+        {
+            "prefix": "zh-TW",
+            "language": "Chinês (Tradicional)"
+        },
+        {
+            "prefix": "ko",
+            "language": "Coreano"
+        },
+        {
+            "prefix": "da",
+            "language": "Dinamarquês"
+        },
+        {
+            "prefix": "sk",
+            "language": "Eslovaco"
+        },
+        {
+            "prefix": "sl",
+            "language": "Esloveno"
+        },
+        {
+            "prefix": "es",
+            "language": "Espanhol"
+        },
+        {
+            "prefix": "fi",
+            "language": "Finlandês"
+        },
+        {
+            "prefix": "fr",
+            "language": "Francês"
+        },
+        {
+            "prefix": "el",
+            "language": "Grego"
+        },
+        {
+            "prefix": "nl",
+            "language": "Holandês"
+        },
+        {
+            "prefix": "hu",
+            "language": "Húngaro"
+        },
+        {
+            "prefix": "hi-IN",
+            "language": "Indiano"
+        },
+        {
+            "prefix": "id",
+            "language": "Indonésio"
+        },
+        {
+            "prefix": "en-US",
+            "language": "Inglês"
+        },
+        {
+            "prefix": "it",
+            "language": "Italiano"
+        },
+        {
+            "prefix": "ja",
+            "language": "Japonês"
+        },
+        {
+            "prefix": "no",
+            "language": "Norueguês"
+        },
+        {
+            "prefix": "pl",
+            "language": "Polonês"
+        },
+        {
+            "prefix": "pt-BR",
+            "language": "Português (Brasileiro)"
+        },
+        {
+            "prefix": "pt-PT",
+            "language": "Português (Europeu)"
+        },
+        {
+            "prefix": "ro",
+            "language": "Romeno"
+        },
+        {
+            "prefix": "ru",
+            "language": "Russo"
+        },
+        {
+            "prefix": "sr-Cyrl",
+            "language": "Sérvio - cirílico"
+        },
+        {
+            "prefix": "sv",
+            "language": "Sueco"
+        },
+        {
+            "prefix": "th",
+            "language": "Tailandês"
+        },
+        {
+            "prefix": "cs",
+            "language": "Tcheco"
+        },
+        {
+            "prefix": "tr",
+            "language": "Turco"
+        }
+    ]
+}
