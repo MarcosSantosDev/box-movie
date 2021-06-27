@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/github/contributors/MarcosSantosDev/box-movie" />
 </p>
 
-#### This is an application that lists a user's repositories, with a choice between GitHub or GitLab providers.
+#### Movie Application - Study-oriented application! This multi-language application that consumes a movie API.
 
 Data consumption APIs:
 
